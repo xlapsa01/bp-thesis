@@ -1,4 +1,3 @@
-# bp-thesis
 drone_dataset:
   folder consisting of the video dataset depicting drones captured by Ing. Martin Sakin + one video edited video provided by prof. Ing. Martin Drahanský Ph.D.
 drone_dataset/training_dataset: 
